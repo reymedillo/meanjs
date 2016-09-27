@@ -1,0 +1,4 @@
+** ADD NEW CRUD MODULE **
+> yo meanjs:crud-module
+(note: select no if ask to add a menu in topbar because of bug it will not display if choosing yes)
+> add [module_name].client.config.js in /modules/[module_name]/client/config folder
